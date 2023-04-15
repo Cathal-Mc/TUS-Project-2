@@ -1,0 +1,6 @@
+Program started at 15/04/2023 14:46:14
+15/04/2023 14:46:14ms - Entry Exit Zone sensor activated
+15/04/2023 14:46:14ms - Zone 1 Detection
+15/04/2023 14:46:14ms - Zone 2 Overheating!
+15/04/2023 14:46:14ms - Zone 2 Overheating!
+15/04/2023 14:46:14ms - Zone 2 Overheating!
